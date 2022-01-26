@@ -17,13 +17,13 @@
 
 <p align="center">
  <a href="#">
-  <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" width="300"/>&nbsp &nbsp &nbsp
+  <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" width="250"/>&nbsp &nbsp &nbsp
  </a>
  <a href="#">
-  <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" width="300"/>&nbsp &nbsp &nbsp
+  <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" width="250"/>&nbsp &nbsp &nbsp
  </a>
  <a href="#">
-  <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" width="300"/>
+  <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" width="250"/>
  </a>
 </p>
 
@@ -31,13 +31,13 @@
 
 <p align="center">
  <a href="#">
-  <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" width="300"/> &nbsp &nbsp &nbsp
+  <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" width="250"/> &nbsp &nbsp &nbsp
  </a>
  <a href="#">
-  <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" width="300"/> &nbsp &nbsp &nbsp
+  <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" width="250"/> &nbsp &nbsp &nbsp
  </a>
  <a href="#">
-  <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" width="300"/> 
+  <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" width="250"/> 
  </a>
 </p>
 
