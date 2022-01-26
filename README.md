@@ -32,7 +32,7 @@
 
 <p align="center">
  <a href="https://peterramirez18.github.io/NFT-Gollect-Art/">
-  <img src="peterramirez18.github.io/nft-gollect-art/" width="250"/>&nbsp &nbsp &nbsp
+  <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" width="250"/>&nbsp &nbsp &nbsp
  </a>
  <a href="https://testimonials-grid-section-main-ashy-seven.vercel.app/">
   <img src="https://i.postimg.cc/25GhpwMy/Testimonials-Grid.png" width="250"/>&nbsp &nbsp &nbsp
