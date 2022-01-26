@@ -3,13 +3,31 @@
 
 
 <p align="center"> </p align="center">
-<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
+<!-- <img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" /> -->
 
 <p align="center">
 - 👋 Hi, I’m @peterramirez18
 - 👀 I’m interested in Multimedia
 - 🌱 I’m currently learning frontend
 </p>
+
+<br>
+
+<h2 align="center">My Projects</h2>
+
+<p align="center">
+<a href="#">
+ <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" width="300"/>
+</a>
+<a href="#">
+ <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" width="300"/>
+</a>
+<a href="#">
+ <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" width="300"/>
+</a>
+</p>
+
+<br>
 
 <h2 align="center">Technology Stack</h2>
 
@@ -27,14 +45,8 @@
 <h2 align="center">Reach me out on</h2>
 
 <p align="center">
-<a href="mailto: peterramirez1812@gmail.com">
- <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:peterramirez1812@gmail.com"/>
-</a>
-<a href="https://www.linkedin.com/in/peterramirez18/">
- <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
-</a>
- <a href="https://www.instagram.com/peterramirez18/">
- <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
+<a href="https://twitter.com/peterramirez_18">
+ <img src="https://img.shields.io/twitter/url?label=peterramirez_18&style=social&url=https%3A%2F%2Ftwitter.com%2Fpeterramirez_18"/>
 </a>
 </p>
 
@@ -49,6 +61,5 @@
 </p>
 
 <hr>
-<p align="center">If you like it, do fork 🍴 and star ⭐</p>
 
 
