@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
   }
 
 </style>
-<h1 class="title">Hola</h1>
+<h1 class="title" style="color:red;">Hola</h1>
 </body>
 </html>
 
