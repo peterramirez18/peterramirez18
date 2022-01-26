@@ -10,11 +10,6 @@ You can click the Preview link to take a look at your changes.
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
-</style>
 </head>
 <body>
 
@@ -23,3 +18,10 @@ p    {color: red;}
 
 </body>
 </html>
+
+
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
