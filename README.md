@@ -51,7 +51,7 @@
  <a href="https://peterramirez18.github.io/Furtur-Lading-Page/">
   <img src="https://i.postimg.cc/HLN4dvK6/Furtur-Landing-Page.png" width="250"/> &nbsp &nbsp &nbsp
  </a>
- <a href="#">
+ <a href="https://peterramirez18.github.io/Order-summary-component/">
   <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" width="250"/> 
  </a>
 </p>
