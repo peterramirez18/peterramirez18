@@ -32,13 +32,13 @@
 
 <p align="center">
  <a href="https://peterramirez18.github.io/NFT-Gollect-Art/">
-  <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" width="250"/>&nbsp &nbsp &nbsp
+  <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" target="_blank" width="250"/>&nbsp &nbsp &nbsp
  </a>
  <a href="https://testimonials-grid-section-main-ashy-seven.vercel.app/">
-  <img src="https://i.postimg.cc/25GhpwMy/Testimonials-Grid.png" width="250"/>&nbsp &nbsp &nbsp
+  <img src="https://i.postimg.cc/25GhpwMy/Testimonials-Grid.png" target="_blank" width="250"/>&nbsp &nbsp &nbsp
  </a>
  <a href="https://timetrackingdashboard.herokuapp.com/">
-  <img src="https://i.postimg.cc/sDcBwRHW/Time-Tracking-Dashboard.png" width="250"/>
+  <img src="https://i.postimg.cc/sDcBwRHW/Time-Tracking-Dashboard.png" target="_blank" width="250"/>
  </a>
 </p>
 
@@ -46,13 +46,13 @@
 
 <p align="center">
  <a href="https://sunnyside-agency.herokuapp.com/">
-  <img src="https://i.postimg.cc/bN8qvCHN/Sunnyside-Agency.png" width="250"/> &nbsp &nbsp &nbsp
+  <img src="https://i.postimg.cc/bN8qvCHN/Sunnyside-Agency.png" target="_blank" width="250"/> &nbsp &nbsp &nbsp
  </a>
  <a href="https://peterramirez18.github.io/Furtur-Lading-Page/">
-  <img src="https://i.postimg.cc/HLN4dvK6/Furtur-Landing-Page.png" width="250"/> &nbsp &nbsp &nbsp
+  <img src="https://i.postimg.cc/HLN4dvK6/Furtur-Landing-Page.png" target="_blank" width="250"/> &nbsp &nbsp &nbsp
  </a>
  <a href="https://peterramirez18.github.io/Order-summary-component/">
-  <img src="https://i.postimg.cc/d0bxSs8B/Order-summary-component.png" width="250"/> 
+  <img src="https://i.postimg.cc/d0bxSs8B/Order-summary-component.png" target="_blank" width="250"/> 
  </a>
 </p>
 
