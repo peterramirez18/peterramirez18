@@ -16,15 +16,29 @@
 <h2 align="center">My Projects</h2>
 
 <p align="center">
-<a href="#">
- <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" width="300"/>
-</a>
-<a href="#">
- <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" width="300"/>
-</a>
-<a href="#">
- <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" width="300"/>
-</a>
+ <a href="#">
+  <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" width="300"/>&nbsp &nbsp &nbsp
+ </a>
+ <a href="#">
+  <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" width="300"/>&nbsp &nbsp &nbsp
+ </a>
+ <a href="#">
+  <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" width="300"/>
+ </a>
+</p>
+
+<br>
+
+<p align="center">
+ <a href="#">
+  <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" width="300"/> &nbsp &nbsp &nbsp
+ </a>
+ <a href="#">
+  <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" width="300"/> &nbsp &nbsp &nbsp
+ </a>
+ <a href="#">
+  <img src="https://i.postimg.cc/brHP49j3/NFT-Gollect-ART.png" width="300"/> 
+ </a>
 </p>
 
 <br>
