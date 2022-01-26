@@ -66,15 +66,6 @@
 </a>
 </p>
 
-<h2 align="center">
-  My Github Stats
-</h2>
- 
-<br>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
-</p>
 
 <hr>
 
